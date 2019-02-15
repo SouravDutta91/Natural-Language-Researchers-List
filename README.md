@@ -22,3 +22,6 @@ This list is categorized into individual list based on the locations.
 |[Prof. Tommi S. Jaakkola](https://people.csail.mit.edu/tommi/)|[MIT CSAIL NLP](http://nlp.csail.mit.edu/people), Massachusetts Institute of Technology (MIT)|Check website|-|
 |[Prof. Stuart M. Shieber](http://www.eecs.harvard.edu/shieber/)|[Harvard NLP](http://nlp.seas.harvard.edu/), Harvard University|Various areas in Computational Linguistics|[Link](https://scholar.google.com/citations?user=oq8WAwsAAAAJ) (12k+)|
 |[Prof. Alexander (Sasha) Rush](http://nlp.seas.harvard.edu/rush.html)|[Harvard NLP](http://nlp.seas.harvard.edu/), Harvard University||[Link](https://scholar.google.com/citations?user=LIjnUGgAAAAJ) (4k+)|
+
+## Contributions
+**This is an ongoing list.** If you want to suggest one or more names of researchers/professors to this list, feel free to send a request for that. Also, if there are any mistakes, feel free to raise an issue for the same.
