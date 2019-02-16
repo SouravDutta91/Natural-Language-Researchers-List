@@ -1,5 +1,5 @@
 # Natural Language Research Groups
-This is a comprehensive collection of research groups and labs around the world for Natural Language.
+This is a comprehensive collection of research groups and labs around the world for Natural Language. If you want to search for a specific research group or professor, please use the search (Ctrl + F) option in your browser. If you are unable to find results in this list, why not suggest us to add it to the list ([Check this section](#want-to-contribute)).
 
 ## Table of contents:
 * [Details about the list](#details-about-the-list)
