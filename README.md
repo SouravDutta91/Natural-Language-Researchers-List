@@ -1,6 +1,13 @@
 # Natural Language Research Groups
 This is a comprehensive collection of research groups and labs around the world for Natural Language.
 
+## Table of contents:
+* Details about the list
+* Location-wise lists
+  * United States (US)
+* [Want to contribute?](https://github.com/SouravDutta91/Natural-Language-Researchers-List/blob/master/README.md#contributions)
+
+## Details about the list
 It contains:
 * Natural Language Researcher
 * Profile Webpage
@@ -47,5 +54,5 @@ This list is categorized into individual list based on the locations.
 |[Prof. Philip Resnik](http://users.umiacs.umd.edu/~resnik/)|[CLIP](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page), University of Maryland (UMD)|Machine translation, sentiment analysis, computational models in social science, modeling of human linguistic processes|[Link](https://scholar.google.com/citations?user=71BFWc0AAAAJ) (16k+)|
 |[Prof. ]()|||[Link]() ()|
 
-## Contributions
+## Want to contribute?
 **This is an ongoing list.** If you want to suggest one or more names of researchers/professors to this list, feel free to send a request for that. Also, if there are any mistakes, feel free to raise an issue for the same.
