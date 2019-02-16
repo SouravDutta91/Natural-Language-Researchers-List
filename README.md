@@ -4,8 +4,8 @@ This is a comprehensive collection of research groups and labs around the world 
 ## Table of contents:
 * [Details about the list](#details-about-the-list)
 * Location-wise lists
-  * United States (US)
-* [Want to contribute?](#contributions)
+  * [United States (US)](#united-states-us)
+* [Want to contribute?](#want-to-contribute)
 
 ## Details about the list
 It contains:
