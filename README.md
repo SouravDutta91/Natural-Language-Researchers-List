@@ -5,6 +5,10 @@ This is a comprehensive collection of research groups and labs around the world 
 * [Details about the list](#details-about-the-list)
 * Location-wise lists
   * [United States (US)](#united-states-us)
+  * [Canada](#canada)
+  * [Europe](#europe)
+  * [Asia](#asia)
+  * [Australasia](#australasia)
 * [Want to contribute?](#want-to-contribute)
 
 ## Details about the list
@@ -54,6 +58,30 @@ This list is categorized into individual list based on the locations.
 |[Prof. David Bamman](http://people.ischool.berkeley.edu/~dbamman/)|[BAIR](https://bair.berkeley.edu/), University of California Berkeley (UCB)|Adding linguistic structure (e.g., syntax, semantics, coreference) to statistical models of text, NLP techniques for a variety of languages and domains|[Link](https://scholar.google.com/citations?user=RkA1y54AAAAJ) (1k+)|
 |[Prof. Marti A. Hearst](http://people.ischool.berkeley.edu/~hearst/)|[BAIR](https://bair.berkeley.edu/), University of California Berkeley (UCB)|Search Engines and their User Interfaces, Information Visualization, Computational Linguistics (Text Mining and Analysis), Tools for the Digital Humanities, Social Technology (Blogs, Tags, Online Personals), Usability in Web Sites, Voting, Security|[Link](https://scholar.google.com/citations?user=Yy6xbCYAAAAJ) (29k+)|
 |[Prof. Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/)|[Georgia Tech CL Lab](https://gtnlp.wordpress.com/), Georgia Tech University (GaTech)|Machine learning approaches to understanding human language, non-standard language, discourse, computational social science, and statistical machine learning|[Link](https://scholar.google.com/citations?user=Wb_lnjAAAAAJ) (6k+)|
+|[Prof. ]()|||[Link]() ()|
+
+## Canada
+
+|Researcher/Professor|Affiliation|Areas of Research|Google Scholar (# citations)|
+|--------------------|-----------|-----------------|----------------------------|
+|[Prof. ]()|||[Link]() ()|
+
+## Europe
+
+|Researcher/Professor|Affiliation|Areas of Research|Google Scholar (# citations)|
+|--------------------|-----------|-----------------|----------------------------|
+|[Prof. ]()|||[Link]() ()|
+
+## Asia
+
+|Researcher/Professor|Affiliation|Areas of Research|Google Scholar (# citations)|
+|--------------------|-----------|-----------------|----------------------------|
+|[Prof. ]()|||[Link]() ()|
+
+## Australasia
+
+|Researcher/Professor|Affiliation|Areas of Research|Google Scholar (# citations)|
+|--------------------|-----------|-----------------|----------------------------|
 |[Prof. ]()|||[Link]() ()|
 
 ## Want to contribute?
