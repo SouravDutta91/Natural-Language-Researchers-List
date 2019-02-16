@@ -2,10 +2,10 @@
 This is a comprehensive collection of research groups and labs around the world for Natural Language.
 
 ## Table of contents:
-* Details about the list
+* [Details about the list](#details-about-the-list)
 * Location-wise lists
   * United States (US)
-* [Want to contribute?](https://github.com/SouravDutta91/Natural-Language-Researchers-List/blob/master/README.md#contributions)
+* [Want to contribute?](#contributions)
 
 ## Details about the list
 It contains:
