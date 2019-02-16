@@ -9,10 +9,10 @@ This is a comprehensive collection of research groups and labs around the world 
 
 ## Details about the list
 It contains:
-* Name of the Researcher/Professor (with profile link)
-* Affiliation (Research Group, University)
-* Areas of research
-* Google Scholar profile (with total number of citations at that time)
+* **Name of the Researcher/Professor** (with profile link)
+* **Affiliation** (Research Group, University)
+* **Areas of research**
+* **Google Scholar profile** (with total number of citations at that time)
 
 This list is categorized into individual list based on the locations.
 
